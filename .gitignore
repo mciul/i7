@@ -1,0 +1,19 @@
+# Ignore a bunch of stuff so that we can simply copy our I7 directory into the repository
+*~
+*.blurb
+*Build
+*.DS_Store
+*.gblorb
+*.glk*
+*.iFiction
+*Index
+*manifest.plist
+*Release
+*Reserved
+*.rtf
+*Settings.plist
+*.skein
+*.tiff
+*.zip
+i7
+Inform
